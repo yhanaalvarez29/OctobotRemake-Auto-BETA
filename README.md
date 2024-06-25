@@ -1,5 +1,5 @@
 # OctobotRemake Auto
-Demo: http://fi3.bot-hosting.net:23173/
+Demo: https://hardasf.github.io/OctobotRemakeAuto/
 
 ## NOTE
 - THIS SAUCE IS OBFUSCATED IF YOU WANT NOT ENCRYPTED ONE🥴? BUY ME A CUP OF 🍻 BEER THEN😗
